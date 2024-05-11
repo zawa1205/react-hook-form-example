@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-flow: column;
+}
+
+.moveButton {
+  width: 26px;
+  text-align: center;
+}
+
+.spacer {
+  content: "";
+  width: 26px;
+  display: inline-block;
+}
